@@ -16,7 +16,7 @@
 
 ✍️ Sharing my learning journey through projects on GitHub
 
-🛠️ Skills & Tools
+🛠️ Skills & Tools <br>
 🔹 Programming & Data
 
 Languages: Python , R , Java
